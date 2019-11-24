@@ -1,0 +1,2 @@
+# aoa
+Algorithmic Ontological Agents
